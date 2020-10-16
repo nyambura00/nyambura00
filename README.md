@@ -2,7 +2,7 @@
 I'm a tech fan, exploring, and learning massively about software development, and anything making earth an incredible place;)
 
 
-Let's learn and engage with each other sometimes!😄
+Let's learn and engage sometimes!😄
 
 <!--
 **nyambura00/nyambura00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
