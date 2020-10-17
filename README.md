@@ -1,6 +1,6 @@
 ### Hi there. How are you doing? 👋
-I'm a tech fan, exploring, and learning massively about software development, and anything making earth an incredible place;)
 
+Catch me up on majorly software development, business thingys and basically any sort of innovative inspirations⚡
 
 Let's learn and engage sometimes!😄
 
