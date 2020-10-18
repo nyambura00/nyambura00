@@ -1,6 +1,6 @@
 ### Hi there. How are you doing? 👋
 
-Catch me up on majorly software development, business thingys and basically any sort of innovative inspirations⚡
+Catch me up on majorly software development, business thingys, and any sort of innovative inspirations⚡
 
 Let's learn and engage sometimes!😄
 
