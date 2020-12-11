@@ -1,6 +1,6 @@
 ### Hi there. How are you doing? It's Winnie👋
 
-const myScope = () => return [..., "Web Devt", "Mobile Devt", "Entrepreneurship", "Innovations"];
+const myScope = [..., "Web Devt", "Mobile Devt", "Entrepreneurship", "Innovations"];
 
 Let's learn and engage sometimes!👯
 <!--
