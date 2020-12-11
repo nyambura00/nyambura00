@@ -1,9 +1,8 @@
-### Hi there. How are you doing? 👋
+### Hi there. How are you doing? It's Winnie👋
 
-Catch me up on majorly software development, business thingys, and any sort of innovative inspirations⚡
+const myScope = () => return [..., "Web Devt", "Mobile Devt", "Entrepreneurship", "Innovations"];
 
-Let's learn and engage sometimes!😄
-
+Let's learn and engage sometimes!👯
 <!--
 **nyambura00/nyambura00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
