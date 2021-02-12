@@ -1,6 +1,6 @@
 ### Hi there. How are you doing? It's Winnie👋
 
-const myScope = [..., "Web Devt", "Mobile Devt", "Business Entrepreneurship", "Innovations"];
+const myScope = [...etc, "Web Devt", "Mobile Devt", "Business Entrepreneurship", "Innovations"];
 
 Let's learn and engage sometimes!👯
 <!--
