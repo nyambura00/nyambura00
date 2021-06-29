@@ -1,4 +1,4 @@
-### Hi there. How are you doing? It's Winnie👋
+### Hi there. How are you doing? I'm Winnie👋
 
 const myScope = [...etc, "Web Devt"];
 
