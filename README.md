@@ -1,6 +1,6 @@
 ### Hi there. How are you doing? I'm Winnie👋
 
-const myScope = [...etc, "Cybersecurity", "Web Devt"];
+let myScope = [...etc, "Cybersecurity", "Web Devt"];
 
 Let's learn and engage sometimes!👯
 <!--
