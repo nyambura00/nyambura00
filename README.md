@@ -1,8 +1,9 @@
-### Hi there. How are you doing? I'm Winnie👋
+### Hi there. How are you doing? I'm Winnie Nyambura👋
 
-let myScope = [...etc, "Cybersecurity", "Web Devt"];
+let myScope = [..., "Web2", "Web3", "Linux", "Software Security"];
 
-Let's learn and engage sometimes!👯
+
+
 <!--
 **nyambura00/nyambura00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
