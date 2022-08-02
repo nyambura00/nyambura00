@@ -1,6 +1,6 @@
 ### Hi there. How are you doing? I'm Winnie Nyambura👋
 
-let myScope = [..., "Web2", "Web3", "Linux", "Software Security"];
+let mut my_scope = vec!["web devt", "security"];
 
 
 
