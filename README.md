@@ -1,6 +1,6 @@
 ### Hi there. How are you doing? I'm Winnie Nyambura👋
 
-let mut my_scope = vec!["web devt", "security"];
+let mut my_scope = vec!["web devt", "security", ..etc];
 
 
 
